@@ -13,5 +13,8 @@
 1，	从质心点出发，循环遍历在质心点处的8连通区域的像素是否满足一个给定的条件，如果满足，则将此点赋值为1，否则赋值为0，并将满足的点压栈保存。
 2，	将步骤1中压栈保存的点的坐标初始化为质心，然后继续步骤1，直到栈低为空。
 (3)	输出步骤2中得到的图像，即可以看到河流部分已经被提出出来。
-# 1.3 实验结果
+## 1.3 实验结果
 ![cmd-markdown-logo](https://github.com/scri/riverExtract/blob/master/picture/3.jpg)
+##	基于深度神经网络的河流提取
+#实验结果
+![cmd-markdown-logo](https://github.com/scri/riverExtract/blob/master/picture/5.jpg)
